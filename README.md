@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shawnlandis
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Three.js, Html, JS,CSS, and SQL Database
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me landisshawn127@gmail.com
 
